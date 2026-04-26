@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=radincuyy.radincuyy" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Hello!;I'm+Radinka+from+Indonesia" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello;I'm+Radinka+from+Indonesia" />
 </h1>
 
 <h3 align="center">Information Systems Student from Universitas Pembangunan Nasional "Veteran" Jakarta 🇮🇩</h3>
